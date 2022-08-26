@@ -1,7 +1,7 @@
 ## vue-picture-verify
 纯前端滑块图形验证码，可自定义图片和通过远程获取默认从[Lorem Picsum图库获取](https://picsum.photos/)
 
-![demo](./demo.jpg)
+![demo](/demo.jpg)
 
 ### 安装
 
